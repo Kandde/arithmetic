@@ -13,7 +13,6 @@ public class TwoSum {
         for(int i = 0; i < nums.length; i ++) {
             map.put(nums[i], i);
         }
-        System.out.println(map.containsKey(7));
         for (int i = 0; i < nums.length; i ++) {
             int tmpTarget = target - nums[i];
             if (map.containsKey(tmpTarget) && map.get(tmpTarget) != i) {
