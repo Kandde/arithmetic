@@ -9,3 +9,4 @@
 .idea
 algorithms-java/out
 *.class
+*.iml
