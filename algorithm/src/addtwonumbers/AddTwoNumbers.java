@@ -5,7 +5,7 @@ package addtwonumbers;
  */
 public class AddTwoNumbers {
 
-    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+    public ListNode solution(ListNode l1, ListNode l2) {
         int currVal;
         int preVal = 0;
 
