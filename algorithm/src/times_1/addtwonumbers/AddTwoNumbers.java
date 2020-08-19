@@ -1,4 +1,4 @@
-package addtwonumbers;
+package times_1.addtwonumbers;
 
 /**
  * @author zhaohongxin

@@ -1,4 +1,4 @@
-package lengthoflongestsubstring;
+package times_1.lengthoflongestsubstring;
 
 import java.util.HashSet;
 

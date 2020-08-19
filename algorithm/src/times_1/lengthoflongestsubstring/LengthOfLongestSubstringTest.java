@@ -1,4 +1,4 @@
-package lengthoflongestsubstring;
+package times_1.lengthoflongestsubstring;
 
 import org.junit.Assert;
 import org.junit.Test;

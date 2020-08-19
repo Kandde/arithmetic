@@ -1,4 +1,4 @@
-package medianoftwosortedarrays;
+package times_1.medianoftwosortedarrays;
 
 /**
  * todo
