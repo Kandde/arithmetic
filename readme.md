@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty | times | Previous Date | Todo Date 
 |---| ----- | -------- | ---------- | ----- | ------------- | ---------
+|第一周| ----- | -------- | ---------- | ----- | ------------- | ---------
 |1|[1.两数之和](https://leetcode-cn.com/problems/two-sum/)| [Java](algorithm/src/times_1/twosum/TwoSum.java)|Easy|2020-08-15|2020-08-19
 |2|[70.爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)|-|Easy|1|2020-08-13|2020-08-19
 |3|[20.有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)|-|Easy|1|2020-08-18|2020-08-19
@@ -26,7 +27,28 @@ LeetCode
 |19|[88.合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)|-|Easy|1|todo|todo
 |20|[66.加一](https://leetcode-cn.com/problems/plus-one/)|-|Easy|1|todo|todo
 |21|[641.设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/)|-|Medium|1|todo|todo
-|22|[42.环形链表 II](https://leetcode-cn.com/problems/trapping-rain-water/)|-|Hard|1|todo|todo
+|22|[42.接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)|-|Hard|1|todo|todo
+|第二周| ----- | -------- | ---------- | ----- | ------------- | ---------
+|1|[242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/)|-|Easy|1|2020-08-23|2020-08-25
+|2|[1. 两数之和](https://leetcode-cn.com/problems/two-sum/description/)|-|Easy|1|todo|todo
+|2|[94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|-|Medium|1|todo|todo
+|2|[144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|-|Medium|1|todo|todo
+|2|[590. N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)|-|Easy|1|todo|todo
+|2|[589. N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/)|-|Easy|1|todo|todo
+|2|[429. N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)|-|Easy|1|todo|todo
+|2|[剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)|-|Easy|1|todo|todo
+|2|[239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)|-|Hard|1|todo|todo
+|2|[剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)|-|Easy|1|todo|todo
+|2|[剑指 Offer 49. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/)|-|Medium|1|todo|todo
+|2|[剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)|-|Easy|1|todo|todo
+|2|[347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)|-|Easy|1|todo|todo
+|2|[剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)|-|Easy|1|todo|todo
+
+https://leetcode-cn.com/problems/chou-shu-lcof/
+
+
+
+
 
 
 
