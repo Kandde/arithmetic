@@ -31,20 +31,44 @@ LeetCode
 |第二周| ----- | -------- | ---------- | ----- | ------------- | ---------
 |1|[242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/)|-|Easy|1|2020-08-23|2020-08-25
 |2|[1. 两数之和](https://leetcode-cn.com/problems/two-sum/description/)|-|Easy|1|todo|todo
-|2|[94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|-|Medium|1|2020-08-26|todo
-|2|[144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|-|Medium|1|todo|todo
-|2|[590. N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)|-|Easy|1|todo|todo
-|2|[589. N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/)|-|Easy|1|todo|todo
-|2|[429. N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)|-|Easy|1|todo|todo
-|2|[剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)|-|Easy|1|todo|todo
-|2|[239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)|-|Hard|1|todo|todo
-|2|[剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)|-|Easy|1|todo|todo
-|2|[剑指 Offer 49. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/)|-|Medium|1|todo|todo
-|2|[剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)|-|Easy|1|todo|todo
-|2|[347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)|-|Easy|1|todo|todo
-|2|[剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)|-|Easy|1|todo|todo
+|3|[94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|-|Medium|1|2020-08-26|todo
+|4|[144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|-|Medium|1|todo|todo
+|5|[590. N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)|-|Easy|1|todo|todo
+|6|[589. N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/)|-|Easy|1|todo|todo
+|7|[429. N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)|-|Easy|1|todo|todo
+|8|[剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)|-|Easy|1|todo|todo
+|9|[239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)|-|Hard|1|todo|todo
+|10|[剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)|-|Easy|1|todo|todo
+|11|[剑指 Offer 49. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/)|-|Medium|1|todo|todo
+|12|[347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)|-|Easy|1|todo|todo
+|第三周|第7课| 泛型递归、树的递归 |  |  |  | 
+| 1. 递归的实现、特性以及思维要点| 实战 |  |  |  |  | 
+|1|[70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)|-|Easy|1|todo|todo
+|2|[22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)|-|Easy|1|todo|todo
+|3|[226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/)|-|Easy|1|todo|todo
+|4|[98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)|-|Easy|1|todo|todo
+|5|[104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|-|Easy|1|todo|todo
+|6|[111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)|-|Easy|1|todo|todo
+|7|[297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)|-|Easy|1|todo|todo
+| 1. 递归的实现、特性以及思维要点| 作业 |  |  |  |  | 
+|1|[236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)|-|Easy|1|todo|todo
+|2|[105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|-|Easy|1|todo|todo
+|3|[77. 组合](https://leetcode-cn.com/problems/combinations/)|-|Easy|1|todo|todo
+|4|[46. 全排列](https://leetcode-cn.com/problems/permutations/)|-|Easy|1|todo|todo
+|5|[47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/)|-|Easy|1|todo|todo
+|第三周|第8课| 分治、回溯 |  |  |  | 
+| 1. 分治、回溯的实现和特性| 实战 |  |  |  |  | 
+|1|[50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)|-|Easy|1|todo|todo
+|2|[78. 子集](https://leetcode-cn.com/problems/subsets/)|-|Easy|1|todo|todo
+|3|[169. 多数元素](https://leetcode-cn.com/problems/majority-element/description/)|-|Easy|1|todo|todo
+|4|[17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)|-|Easy|1|todo|todo
+|5|[51. N皇后](https://leetcode-cn.com/problems/n-queens/)|-|Easy|1|todo|todo
+|6|[47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/)|-|Easy|1|todo|todo
 
-https://leetcode-cn.com/problems/chou-shu-lcof/
+
+
+
+https://leetcode-cn.com/problems/powx-n/
 
 
 
