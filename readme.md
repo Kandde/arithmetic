@@ -31,7 +31,7 @@ LeetCode
 |第二周| ----- | -------- | ---------- | ----- | ------------- | ---------
 |1|[242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/)|-|Easy|1|2020-08-23|2020-08-25
 |2|[1. 两数之和](https://leetcode-cn.com/problems/two-sum/description/)|-|Easy|1|todo|todo
-|2|[94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|-|Medium|1|todo|todo
+|2|[94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|-|Medium|1|2020-08-26|todo
 |2|[144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|-|Medium|1|todo|todo
 |2|[590. N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)|-|Easy|1|todo|todo
 |2|[589. N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/)|-|Easy|1|todo|todo
