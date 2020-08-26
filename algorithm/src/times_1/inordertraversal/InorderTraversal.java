@@ -12,17 +12,13 @@ public class InorderTraversal {
         traversal(root, result);
         return result;
     }
-    public void traversal(TreeNode node, List<Integer> result) {
+    private void traversal(TreeNode node, List<Integer> result) {
         if (null == node) {
             return;
         }
-        if (null != node.left) {
-            traversal(node.left, result);
-        }
+        traversal(node.left, result);
         result.add(node.val);
-        if (null != node.right) {
-            traversal(node.right, result);
-        }
+        traversal(node.right, result);
     }
 
 }
