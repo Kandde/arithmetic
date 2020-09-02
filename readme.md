@@ -56,14 +56,13 @@ LeetCode
 |3|[77. 组合](https://leetcode-cn.com/problems/combinations/)|-|Easy|1|todo|todo
 |4|[46. 全排列](https://leetcode-cn.com/problems/permutations/)|-|Easy|1|todo|todo
 |5|[47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/)|-|Easy|1|todo|todo
-|第三周|第8课| 分治、回溯 |  |  |  | 
+||第8课| 分治、回溯 |  |  |  | 
 | 1. 分治、回溯的实现和特性| 实战 |  |  |  |  | 
-|1|[50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)|-|Easy|1|todo|todo
+|1|[50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)|-|Easy|1|2020-09-02|todo
 |2|[78. 子集](https://leetcode-cn.com/problems/subsets/)|-|Easy|1|todo|todo
 |3|[169. 多数元素](https://leetcode-cn.com/problems/majority-element/description/)|-|Easy|1|todo|todo
 |4|[17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)|-|Easy|1|todo|todo
 |5|[51. N皇后](https://leetcode-cn.com/problems/n-queens/)|-|Easy|1|todo|todo
-|6|[47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/)|-|Easy|1|todo|todo
 
 
 
