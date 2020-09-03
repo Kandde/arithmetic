@@ -36,7 +36,7 @@ public class MyPow {
         long a = -2147483648;
         long b = -a;
         System.out.println(b);
-        MyPow myPow = new MyPow();
-        myPow.myPow(2.00000,-2147483648);
+        int c = 2147483647;
+        System.out.println(c + 1);
     }
 }
