@@ -31,7 +31,7 @@ LeetCode
 |第二周| ----- | -------- | ---------- | ----- | ------------- | ---------
 |1|[242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/)|-|Easy|1|2020-08-23|2020-08-25
 |2|[1. 两数之和](https://leetcode-cn.com/problems/two-sum/description/)|-|Easy|1|todo|todo
-|3|[94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|-|Medium|1|2020-08-26|todo
+|3|[94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|-|Medium|2|2020-09-21|todo
 |4|[144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|-|Medium|1|todo|todo
 |5|[590. N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)|-|Easy|1|todo|todo
 |6|[589. N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/)|-|Easy|1|todo|todo
@@ -63,11 +63,12 @@ LeetCode
 |3|[169. 多数元素](https://leetcode-cn.com/problems/majority-element/description/)|-|Easy|1|todo|todo
 |4|[17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)|-|Easy|1|todo|todo
 |5|[51. N皇后](https://leetcode-cn.com/problems/n-queens/)|-|Easy|1|todo|todo
+|000|[102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)|-|Easy|1|todo|todo
 
 
 
 
-https://leetcode-cn.com/problems/powx-n/
+
 
 
 
